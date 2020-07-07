@@ -40,6 +40,8 @@ Mobile.delay(5)
 
 Mobile.swipe(550, 2000, 550, 500)
 
+Mobile.delay(3)
+
 Mobile.swipe(550, 2000, 550, 500)
 
 if (Rating == 1) {
