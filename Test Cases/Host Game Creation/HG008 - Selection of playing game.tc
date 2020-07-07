@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to select Playing game</description>
+   <name>HG008 - Selection of playing game</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8eb4c90-bf7a-4f6a-a39d-c8de0cd2c324</testCaseGuid>
+</TestCaseEntity>

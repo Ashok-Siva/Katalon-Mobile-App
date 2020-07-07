@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Booking</name>
+   <tag></tag>
+   <comment>Radio button for Full Amount</comment>
+   <testCaseGuid>eb6b27ac-d0ef-4fc4-8b61-d48d526a4a96</testCaseGuid>
+</TestCaseEntity>

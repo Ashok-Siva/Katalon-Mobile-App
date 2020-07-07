@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on search tab Give venue search data and the data should show according to search data</description>
+   <name>HG001 - Search for venue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>687ec647-c76f-42b7-b711-586f87d693e5</testCaseGuid>
+</TestCaseEntity>

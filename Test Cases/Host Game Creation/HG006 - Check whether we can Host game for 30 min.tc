@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can book and host a game for 30 min and click Host a game or Book</description>
+   <name>HG006 - Check whether we can Host game for 30 min</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>747587c3-083f-49e3-be86-94dbb03fa028</testCaseGuid>
+</TestCaseEntity>

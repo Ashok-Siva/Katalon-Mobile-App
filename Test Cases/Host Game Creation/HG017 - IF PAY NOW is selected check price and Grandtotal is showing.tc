@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether after selecting pay now it show the details like Bill details Price and Grandtotal</description>
+   <name>HG017 - IF PAY NOW is selected check price and Grandtotal is showing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>80155aba-98d0-4fa8-a2ab-4d39fcd13283</testCaseGuid>
+</TestCaseEntity>

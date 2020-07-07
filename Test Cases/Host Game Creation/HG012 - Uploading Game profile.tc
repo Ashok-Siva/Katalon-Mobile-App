@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to upload the host game profile using GIF and normal image</description>
+   <name>HG012 - Uploading Game profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7b2f5a9-ae33-400c-9111-2e42f0a18415</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to give Host name with text and smileys</description>
+   <name>HG014 - Adding Host Description</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31ccfb42-bfab-49ec-843b-ec8fe11bedbb</testCaseGuid>
+</TestCaseEntity>

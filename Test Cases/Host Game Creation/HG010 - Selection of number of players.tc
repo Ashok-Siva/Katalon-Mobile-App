@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to select the number of players</description>
+   <name>HG010 - Selection of number of players</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5e8921d-4989-401a-8900-d95920abc970</testCaseGuid>
+</TestCaseEntity>

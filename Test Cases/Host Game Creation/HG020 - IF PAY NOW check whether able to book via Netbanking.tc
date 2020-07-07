@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether able to pay via 
+1.Card or
+2.Netbanking or
+3.Wallet or
+ 4.UPI</description>
+   <name>HG020 - IF PAY NOW check whether able to book via Netbanking</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f333de88-890d-4c0f-8fc6-99655843c4db</testCaseGuid>
+</TestCaseEntity>

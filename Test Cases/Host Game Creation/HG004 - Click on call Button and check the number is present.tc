@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether while clicking on call button it should navigate to phone call with phone number</description>
+   <name>HG004 - Click on call Button and check the number is present</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48305e16-71d8-4080-93cb-66fbfb63eaa9</testCaseGuid>
+</TestCaseEntity>

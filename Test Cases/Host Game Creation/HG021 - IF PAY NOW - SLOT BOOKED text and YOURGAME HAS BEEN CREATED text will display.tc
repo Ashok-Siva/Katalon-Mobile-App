@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether &quot;Your game has been created&quot; and &quot;Slot booked&quot; text is showing</description>
+   <name>HG021 - IF PAY NOW - SLOT BOOKED text and YOURGAME HAS BEEN CREATED text will display</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8a701143-ec6a-43cd-9aef-fd1ee133b742</testCaseGuid>
+</TestCaseEntity>

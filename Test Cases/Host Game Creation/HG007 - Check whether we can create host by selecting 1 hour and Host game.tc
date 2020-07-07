@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to Host a game after selection of 1 Hour by clicking Host a Game it should navigate to new page</description>
+   <name>HG007 - Check whether we can create host by selecting 1 hour and Host game</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e5e66b5-f0df-403d-ae45-0bbf3875668d</testCaseGuid>
+</TestCaseEntity>

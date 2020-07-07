@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to select the format</description>
+   <name>HG009 - Selection of format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1a86011-3735-4c5b-ae60-ae3ae6987461</testCaseGuid>
+</TestCaseEntity>

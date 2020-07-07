@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether NEXT button is working fine and its navigating to next page</description>
+   <name>HG011 - Clicking on NEXT button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>143c39b5-175e-4a16-aa92-9d53e971679d</testCaseGuid>
+</TestCaseEntity>

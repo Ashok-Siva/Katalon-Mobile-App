@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether if the user selects pay later the footer should shows with Create Game button</description>
+   <name>HG022 - ELSE PAY LATER check CREATE GAME button at the footer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea5d6c2a-69f5-47d2-9594-ce47a914dad7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether Venue name address and rating properly displaying</description>
+   <name>HG003 - Check whether Venue name,Address and rating are displaying</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92b0af7a-972c-4183-8ffd-61c6432a887b</testCaseGuid>
+</TestCaseEntity>

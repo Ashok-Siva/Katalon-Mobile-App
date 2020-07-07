@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to select the payment option
+
+1.Pay Now
+2.Pay Later</description>
+   <name>HG016 - Payment option</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b2e702e-b218-4563-9fdc-393fe94e35e4</testCaseGuid>
+</TestCaseEntity>

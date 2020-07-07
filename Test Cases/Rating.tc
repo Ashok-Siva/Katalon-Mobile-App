@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Rating</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3747c95-4fcd-4e6c-85bd-a9b13dd3c77a</testCaseGuid>
+   <variable>
+      <defaultValue>'Hit'</defaultValue>
+      <description></description>
+      <id>63eb4a56-810f-485e-85c0-8b97c588a6c8</id>
+      <masked>false</masked>
+      <name>venue_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>cbd494a1-8a9c-4460-a5c6-0b143d32f0ac</id>
+      <masked>false</masked>
+      <name>Rating</name>
+   </variable>
+   <variable>
+      <defaultValue>'Good and valuable'</defaultValue>
+      <description></description>
+      <id>3242776b-64b4-4d58-9a38-2f595d3020c1</id>
+      <masked>false</masked>
+      <name>Review</name>
+   </variable>
+</TestCaseEntity>

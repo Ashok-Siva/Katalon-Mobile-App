@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check whether we can able to choose Pay advance or Full amount</description>
+   <name>HG018 - IF PAY NOW Radio button for PAY ADVANCE and FULL AMOUNT</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ca37e3f-6165-43ff-a9a6-9c826be6758f</testCaseGuid>
+</TestCaseEntity>
